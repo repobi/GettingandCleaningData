@@ -16,7 +16,7 @@
 * frequencyDomain_BodyAccJerkMag
 * frequencyDomain_BodyGyroMag
 * frequencyDomain_BodyGyroJerkMag
-
+## sub
 * MEAN: Mean value
 * STD: Standard deviation
 
