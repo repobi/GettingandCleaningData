@@ -1,24 +1,24 @@
 # Tidy data
-timeDomain_BodyAcc_XYZ
-timeDomain_GravityAcc_XYZ
-timeDomain_BodyAccJerk_XYZ
-timeDomain_BodyGyro_XYZ
-timeDomain_BodyGyroJerk_XYZ
-timeDomain_BodyAccMag
-timeDomain_GravityAccMag
-timeDomain_BodyAccJerkMag
-timeDomain_BodyGyroMag
-timeDomain_BodyGyroJerkMag
-frequencyDomain_BodyAcc_XYZ
-frequencyDomain_BodyAccJerk_XYZ
-frequencyDomain_BodyGyro_XYZ
-frequencyDomain_BodyAccMag
-frequencyDomain_BodyAccJerkMag
-frequencyDomain_BodyGyroMag
-frequencyDomain_BodyGyroJerkMag
+*timeDomain_BodyAcc_XYZ
+*timeDomain_GravityAcc_XYZ
+*timeDomain_BodyAccJerk_XYZ
+*timeDomain_BodyGyro_XYZ
+*timeDomain_BodyGyroJerk_XYZ
+*timeDomain_BodyAccMag
+*timeDomain_GravityAccMag
+*timeDomain_BodyAccJerkMag
+*timeDomain_BodyGyroMag
+*timeDomain_BodyGyroJerkMag
+*frequencyDomain_BodyAcc_XYZ
+*frequencyDomain_BodyAccJerk_XYZ
+*frequencyDomain_BodyGyro_XYZ
+*frequencyDomain_BodyAccMag
+*frequencyDomain_BodyAccJerkMag
+*frequencyDomain_BodyGyroMag
+*frequencyDomain_BodyGyroJerkMag
 
-MEAN: Mean value
-STD: Standard deviation
+*MEAN: Mean value
+*33STD: Standard deviation
 
 ## information
 The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals timeDomain_Acc_XYZ and timeDomain_Gyro_XYZ.
@@ -33,4 +33,3 @@ Finally a Fast Fourier Transform (FFT) was applied to some of these signals prod
 
 These signals were used to estimate variables of the feature vector for each pattern:  
 '_XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
-
